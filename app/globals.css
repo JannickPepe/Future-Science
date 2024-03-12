@@ -82,7 +82,9 @@
   display: none;
 }
 
-
+.footer-body{
+  z-index: 100;
+}
 
 html {
   scroll-behavior: smooth;
